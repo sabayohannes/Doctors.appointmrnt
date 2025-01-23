@@ -15,7 +15,7 @@ with Our Trusted Doctors
         <p>Simply browse throuh our extensive list of doctors,<br/>
         schedule your Appointemt</p>
         </div>
-        <a  className='flex items-center gap-2 bg-white px-3 py-3 rounded-full text-gray-600 text-sm m-auto md:m-0 hover:scale-105 transition-all duration-300' href=''>Book Appointment <img className='w-3' src={assets.arrow_icon} alt=""/></a>
+        <a  className='flex items-center gap-2 bg-white px-3 py-3 rounded-full text-gray-600 text-sm m-auto md:m-0 hover:scale-105 transition-all duration-300' href='#speciality'>Book Appointment <img className='w-3' src={assets.arrow_icon} alt=""/></a>
         </div>  
 
       {/* rightside*/}
