@@ -49,6 +49,14 @@ const Navbar = () => {
             Create account
           </button>
         )}
+        <img   onClick ={()=>setShowMenu(true)}className=' w-6 md:hidden'src={assets.menu_icon} alt=''/>
+      
+      <div>
+        <div>
+          <img src={assets.logo}/>
+          <img  onClick={ ()=>setShowMenu(false)}src={assets.cross_icon}/>
+        </div>
+      </div>
       </div>
     </div>
   );
