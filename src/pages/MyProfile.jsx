@@ -115,4 +115,8 @@ const MyProfile = () => {
   );
 };
 
+<<<<<<< HEAD
 export default MyProfile;
+=======
+export default MyProfile;
+>>>>>>> 8b6b3732e8085666d219beb716313800f0f827fa
